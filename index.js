@@ -17,6 +17,11 @@ module.exports = Waline({
     '113.14.130.128',
     '117.136.14.181',
     '117.183.0.241'
+  ],
+  secureDomains: [
+    'akilar.top',
+    'akilar.gitee.io',
+    'akilarlxh.github.io'
   ]
 });
 
